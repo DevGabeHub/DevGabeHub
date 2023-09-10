@@ -22,4 +22,3 @@ I've crafted my skills in the following technologies:
 Let's connect, collaborate, and make the web an exciting place:
 
 - 💌 [Email](mailto:gabrielcapraru@gmail.com)
-- 💼 [GitHub](https://github.com/DevGabeHub)
