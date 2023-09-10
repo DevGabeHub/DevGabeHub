@@ -1,6 +1,8 @@
 # Hi, I'm Gabriel 👋
 
-A self-taught web developer on a journey to turn caffeine into code and dreams into websites. Welcome to my digital playground! 
+A self-taught web developer on a journey to turn caffeine into code and dreams into websites.
+
+Welcome to my digital playground! 
 
 ## About Me
 
